@@ -50,10 +50,10 @@ tests and analyzing algorithm edge cases in image-processing pipelines.
 C++ contribution to the **OpenVINO PyTorch frontend** focused on improving matrix-chain computation.
 
 ### Highlights
--Implemented the linalg_multi_dot operator in C++ for the OpenVINO PyTorch frontend
--Applied Matrix Chain Optimization to reduce computation cost by ~35%
--Developed pytest validation tests using PyTorch and NumPy
--Verified correctness across CPU and GPU inference backends
+- Implemented the linalg_multi_dot operator in C++ for the OpenVINO PyTorch frontend
+- Applied Matrix Chain Optimization to reduce computation cost by ~35%
+- Developed pytest validation tests using PyTorch and NumPy
+- Verified correctness across CPU and GPU inference backends
 
 ---
 
@@ -62,10 +62,10 @@ C++ contribution to the **OpenVINO PyTorch frontend** focused on improving matri
 Developed a **Model Context Protocol server** that extracts structured context from Git repositories for AI coding agents.
 
 ### Highlights
--Built a Python backend service integrating Git repository analysis
--Implemented code hotspot detection and repository activity tracking
--Designed tool-based APIs for AI agent integration
--Added caching and controlled subprocess execution for efficient automation
+- Built a Python backend service integrating Git repository analysis
+- Implemented code hotspot detection and repository activity tracking
+- Designed tool-based APIs for AI agent integration
+- Added caching and controlled subprocess execution for efficient automation
 
 ---
 
@@ -74,10 +74,10 @@ Developed a **Model Context Protocol server** that extracts structured context f
 Designed a real-time simulation system inspired by **embedded control architectures**.
 
 ### Highlights
--Built an event-driven simulation engine in Python
--Implemented concurrent movement coordination and state-based control logic
--Designed a modular architecture separating logic, physics, and UI
--Optimized performance and memory usage for real-time responsiveness
+- Built an event-driven simulation engine in Python
+- Implemented concurrent movement coordination and state-based control logic
+- Designed a modular architecture separating logic, physics, and UI
+- Optimized performance and memory usage for real-time responsiveness
 
 ---
 
