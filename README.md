@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tamar Shakovitzky</h1>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=TamiShaks-2&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=tamishaks-2&style=flat-square&color=blue" />
 </p>
 <p align="center">
 I enjoy breaking down complex technical problems and building <b>creative, efficient solutions that actually work</b>, 
