@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Tamar Shakovitzky
+<h1 align="center">👋 Hi, I'm Tamar Shakovitzky</h1>
 
-I enjoy breaking down complex technical problems and building **creative, efficient solutions that actually work**, 
+<p align="center">
+I enjoy breaking down complex technical problems and building <b>creative, efficient solutions that actually work</b>, 
 while continuously learning and exploring new technologies independently.
+</p>
 
-**Focus:** Embedded Systems • C/C++ • Computer Vision • Open Source
+<p align="center">
+Embedded Systems • C/C++ • Computer Vision • Open Source
+</p>
 
 ## 🧰 Tech Stack
 
 
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -34,7 +38,7 @@ while continuously learning and exploring new technologies independently.
 
 ## 👁️ OpenCV Contribution *(In Progress)*
 
-Contributing to the **OpenCV computer vision library (C++)** by developing
+Contributing to the **OpenCV computer vision library C++** by developing
 tests and analyzing algorithm edge cases in image-processing pipelines.
 
 ### Highlights
