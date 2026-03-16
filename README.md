@@ -66,7 +66,8 @@ Developed a **Model Context Protocol server** that extracts structured context f
 - Implemented code hotspot detection and repository activity tracking
 - Designed tool-based APIs for AI agent integration
 - Added caching and controlled subprocess execution for efficient automation
-
+- ✔️ Contribution merged into the **awesome-mcp-servers** repository  
+  https://github.com/punkpeye/awesome-mcp-servers/pull/1643
 ---
 
 ## ♟️ Kung Fu Chess – Real-Time Simulation Engine
