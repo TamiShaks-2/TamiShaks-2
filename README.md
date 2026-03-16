@@ -50,14 +50,10 @@ tests and analyzing algorithm edge cases in image-processing pipelines.
 C++ contribution to the **OpenVINO PyTorch frontend** focused on improving matrix-chain computation.
 
 ### Highlights
-- Implemented the `linalg_multi_dot` operator
-- Applied **Matrix Chain Optimization**
-- Reduced matrix computation cost by ~35%
-- Developed **pytest validation tests**
-- Verified correctness across **CPU and GPU backends**
-
-### Technologies
-C++, PyTorch, OpenVINO, NumPy
+-Implemented the linalg_multi_dot operator in C++ for the OpenVINO PyTorch frontend
+-Applied Matrix Chain Optimization to reduce computation cost by ~35%
+-Developed pytest validation tests using PyTorch and NumPy
+-Verified correctness across CPU and GPU inference backends
 
 ---
 
@@ -66,14 +62,10 @@ C++, PyTorch, OpenVINO, NumPy
 Developed a **Model Context Protocol server** that extracts structured context from Git repositories for AI coding agents.
 
 ### Highlights
-- Repository structure analysis
-- Code hotspot detection
-- Activity tracking and repository insights
-- Tool-based APIs for AI integration
-- Controlled subprocess execution and caching
-
-### Technologies
-Python, Git integration, automation systems
+-Built a Python backend service integrating Git repository analysis
+-Implemented code hotspot detection and repository activity tracking
+-Designed tool-based APIs for AI agent integration
+-Added caching and controlled subprocess execution for efficient automation
 
 ---
 
@@ -82,14 +74,10 @@ Python, Git integration, automation systems
 Designed a real-time simulation system inspired by **embedded control architectures**.
 
 ### Highlights
-- Deterministic event-driven system
-- Concurrent movement coordination
-- State-based control engine
-- Multi-layer architecture (logic, physics, UI)
-- Performance optimization and memory efficiency
-
-### Technologies
-Python, concurrency patterns, system architecture
+-Built an event-driven simulation engine in Python
+-Implemented concurrent movement coordination and state-based control logic
+-Designed a modular architecture separating logic, physics, and UI
+-Optimized performance and memory usage for real-time responsiveness
 
 ---
 
@@ -98,31 +86,13 @@ Python, concurrency patterns, system architecture
 Full-stack application for managing photo printing orders.
 
 ### Highlights
-- Built with **.NET Core MVC**
-- Modular backend architecture
-- User and order management
-- SQL Server integration
-- Agile development workflow
-
-### Technologies
-C#, ASP.NET MVC, SQL Server
+- Developed the system using **C# with ASP.NET Core MVC**
+- Designed a **modular backend architecture** for scalability and maintainability
+- Implemented **user and order management logic**
+- Integrated **SQL Server** for data storage and retrieval
+- Worked in an **Agile development workflow**
 
 ---
-
-## 🛒 React E-Commerce Store
-
-Responsive e-commerce web application deployed to production.
-
-### Highlights
-- State management using Redux
-- Responsive UI design
-- Production deployment
-
-### Technologies
-React, Redux, JavaScript
-
----
-
 
 # 📫 Contact
 
