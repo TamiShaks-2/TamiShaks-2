@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tamar Shakovitzky
+# 👋 Hi, I'm Tamar Shakovitzky
 
 I enjoy breaking down complex technical problems and building **creative, efficient solutions that actually work**, 
 while continuously learning and exploring new technologies independently.
