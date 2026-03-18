@@ -9,7 +9,7 @@ while continuously learning and exploring new technologies independently.
 </p>
 
 <p align="center">
-Embedded Systems • C/C++ • Computer Vision • Open Source
+Embedded Systems • C/C++ • python • Computer Vision • Open Source
 </p>
 
 ## 🧰 Tech Stack
